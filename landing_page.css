@@ -17,10 +17,10 @@
 #main_container{
   width: 1500px;
   height: 600px;
-  background-color: Black
+  background-color: Black;
   display: flex;
   justify-content: space-evenly;
-  padding-top: 190px
+  padding-top: 190px;
 
 }
 #btn_nav_bar:hover{
