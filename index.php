@@ -20,6 +20,11 @@
 
 	<body>
 
+		<div id=header>
+			<span class="Stil1">&raquo;</span> Wilkommen bei der N.B.B.L  <span class="Stil1">&laquo;</span>
+
+		</div>
+
 		<div id= "main_container">
 
 			<a href="start.php"><button id="btn_left">NBBL<img src="bilder\nbbl-logo" max width="100%" max height="100%"></button>
