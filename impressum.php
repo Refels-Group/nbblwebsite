@@ -21,6 +21,8 @@
         <link href="impressum_style.css" rel="stylesheet" type="text/css" media="screen" />
 
 </head>
+											
+		<h1>test1</h1>
 
 
 <body background="bilder\bier.jpg">
