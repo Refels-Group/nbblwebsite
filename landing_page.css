@@ -12,11 +12,12 @@
   text-align: center;
   font-size: 15pt;
   font-weight: bold;
+  background-color: rgba(226, 174, 29);
 }
 #main_container{
   width: 1500px;
   height: 600px;
-  background-color: rgba(88, 86, 84, 0.5);
+  background-color: Black
   display: flex;
   justify-content: space-evenly;
   padding-top: 190px
