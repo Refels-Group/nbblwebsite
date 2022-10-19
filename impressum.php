@@ -22,7 +22,6 @@
 
 </head>
 											
-		<h1>test1</h1>
 
 
 <body background="bilder\bier.jpg">
