@@ -22,8 +22,7 @@
 
 </head>
 										
-											
-
+										
 
 <body background="bilder\bier.jpg">
 
