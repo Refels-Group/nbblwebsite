@@ -18,9 +18,6 @@
 
 	</head>
 
-	<!--test--> 
-
-
 	<body>
 
 		<div id= "main_container">
