@@ -33,14 +33,9 @@
                     <source src="https://www.youtube.com/watch?v=NcBjx_eyvxc" type="video/mp4">
                 </video>
             </div>
-    </header>
 
-</div>
+        </div>
 			<!-- ende header -->
-
-
-</div>
-
 <!--nav bar -->
 
  <div id= "nav_bar"> 
