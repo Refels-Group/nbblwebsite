@@ -22,15 +22,15 @@
 
 		<div id= "main_container">
 
-			<a href="start.php"><button id="btn_nav_bar"> NBBL <img src="bilder\nbbl-logo" max width="100%" max height="100%"></button>
+			<a href="start.php"><button id="btn_left">NBBL<img src="bilder\nbbl-logo" max width="100%" max height="100%"></button>
     	
 			</a>
 
-			<a href="start.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
+			<a href="start.php"><button id="btn_middle"><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
     	
 			</a>
 
-			<a href="start.php"><button id="btn_nav_bar" > Ringbahnsaufen <img src="bilder\BSicon" max height="100%" max width="100%"></button>
+			<a href="start.php"><button id="btn_right">Ringbahnsaufen</button>
     	
 			</a>
 
