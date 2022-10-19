@@ -27,14 +27,13 @@
     	
 			</a>
 
-			<a href="start.php"><button id="btn_nav_bar" > Ringbahnsaufen <img src="bilder\BSicon" max height="100%" max width="100%"></button>
-    	
-			</a>
-
 			<a href="start.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
     	
 			</a>
 
+			<a href="start.php"><button id="btn_nav_bar" > Ringbahnsaufen <img src="bilder\BSicon" max height="100%" max width="100%"></button>
+    	
+			</a>
 
 			
 
