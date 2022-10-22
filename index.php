@@ -23,25 +23,55 @@
 		<div id=header>
 			<span class="Stil1">&raquo;</span> Wilkommen bei der N.B.B.L  <span class="Stil1">&laquo;</span>
 
-		</div>
+		</div><!--ende header -->
 
 		<div id= "main_container">
 
-			<a href="start.php"><button id="btn_left">NBBL<img src="bilder\nbbl-logo" max width="100%" max height="100%"></button>
-    	
-			</a>
+				<a href="start.php"><button id="btn_left"></button>
+					
+				</a>
 
-			<a href="start.php"><button id="btn_middle"><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
-    	
-			</a>
+				<a href="start.php"><button id="btn_middle">NBBL</button>
+					
+				</a>
 
-			<a href="start.php"><button id="btn_right">Ringbahnsaufen</button>
-    	
-			</a>
+				<a href="start.php"><button id="btn_right">Ringbahnsaufen</button>
+					
+				</a>
 
-		
-		</div><!-- ende header -->
+			</div> <!-- ende main -->
 
+		<div id="text_container">
+
+				<div id="text_btn_left">
+
+					Test text
+			
+				</div>
+
+				<div id="text_btn_midddle">
+					Allgeine Übersicht zur NBBL </br>
+					und der aktuellen Season
+				</div>
+
+				<div id="text_btn_right">
+					Informationen zum NBBL Ringbahnsaufen in Berlin
+
+				</div>
+		</div>
+			
+				
+
+		</div><!-- ende text_container -->
+
+
+		<div id="footer_container">
+             <div id="footer">
+			(C) 2022 REFELS GmbH
+
+
+	        </div><!-- ende footer -->
+	    </div><!-- ende footer container -->
 			
 
 	</body>

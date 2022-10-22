@@ -1,6 +1,6 @@
 #btn_left{
   width: 280px;
-  height: auto;
+  height: 290px;
   border:1px solid #d6d6d6;
   box-shadow:inset 0px 0px 0px 0px;
   border-radius:3px;
@@ -13,10 +13,14 @@
   font-size: 15pt;
   font-weight: bold;
   background-color: rgba(226, 174, 29);
+  background-image: url("bilder/nbbl-logo");
+  background-size: contain;
+  vertical-align: top;
+  display: inline-block;
 }
 #btn_middle{
   width: 280px;
-  height: auto;
+  height: 290px;
   border:1px solid #d6d6d6;
   box-shadow:inset 0px 0px 0px 0px;
   border-radius:3px;
@@ -29,6 +33,9 @@
   font-size: 15pt;
   font-weight: bold;
   background-color: rgba(226, 174, 29);
+  background-image: url("bilder/nbbl-logo");
+  background-size: contain;
+
 }
 #btn_right{
   background-size: contain;
@@ -48,7 +55,7 @@
 }
 #main_container{
   width: 1500px;
-  height: 600px;
+  height: 450px;
   background-color: Black;
   display: flex;
   justify-content: space-evenly;
@@ -57,8 +64,6 @@
 }
 #btn_left:hover{
   transform: scale(1);
-  width: 430px;
-  height: auto;
   background-color: black;
   box-shadow:  0PX 20px 20px 10px rgba(226, 174, 29, 0.5);
   font-size: 80pt;
@@ -73,9 +78,66 @@
 }
 #btn_middle:hover{
   transform: scale(1);
-  width: 430px;
-  height: auto;
   background-color: black;
   box-shadow:  0PX 20px 20px 10px rgba(226, 174, 29, 0.5);
   font-size: 20pt;
 }
+#header{
+  width: 1500px;
+  padding-top: 150px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-family: Monospace; 
+  font-size: 40px;
+  text-shadow: 15px 0 20px #be2d2b, 0 0 20px #be2d2b;
+}
+
+#text_btn_left{
+  width: 300px;
+  height: auto;
+  background-color: black;
+  padding-left: 150px;
+  padding-right: 100px;
+}
+#text_btn_middle{
+  width: 300px;
+  height: auto;
+  background-color: black;
+  padding-left: 150px;
+  padding-right: 100px;
+}
+#text_btn_right{
+  width: 300px;
+  height: auto;
+  background-color: black;
+  padding-left: 150px;
+  padding-right: 100px;
+}
+
+#text_container{
+  width: 1500px;
+  background-color: black;
+  color: white;
+  
+  
+  
+}
+
+#footer_container {
+  width: 1500px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #544F43;
+  margin: 0px auto 0px auto;
+  border-top:none;
+}
+#footer {
+  width: 900px;
+  padding: 30px 10px 10px 10px;
+  height: 30px;
+  margin: 0px auto 0px auto;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.6em;
+  color: #EFEFEF;
+  text-align:center;
+} 
