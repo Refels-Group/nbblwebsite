@@ -99,6 +99,8 @@
   background-color: black;
   padding-left: 150px;
   padding-right: 100px;
+  font-weight: bold;
+  font-family: monospace;
 }
 #text_btn_middle{
   width: 300px;
@@ -106,6 +108,8 @@
   background-color: black;
   padding-left: 150px;
   padding-right: 100px;
+  font-weight: bold;
+  font-family: monospace;
 }
 #text_btn_right{
   width: 300px;
@@ -113,12 +117,17 @@
   background-color: black;
   padding-left: 150px;
   padding-right: 100px;
+  font-weight: bold;
+  font-family: monospace;
 }
 
 #text_container{
   width: 1500px;
   background-color: black;
   color: white;
+  display: flex;
+  justify-content: center;
+  
   
   
   
