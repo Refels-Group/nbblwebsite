@@ -82,11 +82,11 @@
             <div id="impressum_content">
             N.B.B.L. e.V. Test </br>
 
-            ein Verein der Refels Group </br>   
+            ein Verein der Refels Unternehmemnsgruppe </br>   
 
             Vertretungsberechtigter Vorstand: Maximilian Rentzsch & Jonathan Felsmann </br>
 
-            da wo joni wohnt 1 , Luca war hier! @luca.finger</br>
+            da wo joni wohnt 1</br>
 
             00000 Berlin </br>
 
