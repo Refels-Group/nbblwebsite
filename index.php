@@ -45,7 +45,7 @@
 
 				<div id="text_btn_left">
 
-					Test text
+					Test text 2tttt
 			
 				</div>
 
