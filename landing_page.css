@@ -4,7 +4,7 @@
   border:1px solid #d6d6d6;
   box-shadow:inset 0px 0px 0px 0px;
   border-radius:3px;
-  transition:.8s all; 
+  transition:.5s all; 
   border:none; 
   max-width: 100%;
   max-height: 100%;
@@ -24,7 +24,7 @@
   border:1px solid #d6d6d6;
   box-shadow:inset 0px 0px 0px 0px;
   border-radius:3px;
-  transition:.8s all; 
+  transition:.5s all; 
   border:none; 
   max-width: 100%;
   max-height: 100%;
@@ -43,7 +43,7 @@
   height: 290px;
   box-shadow:inset 0px 0px 0px 0px;
   border-radius:3px;
-  transition:.8s all; 
+  transition:.5s all; 
   border:none; 
   border-radius: 20px;
   text-align: center;
