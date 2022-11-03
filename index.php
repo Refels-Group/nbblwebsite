@@ -20,7 +20,6 @@
 
 	<body>
 
-	<h1> test123</h1>
 		<div id=header>
 			<span class="Stil1">&raquo;</span> Wilkommen bei der N.B.B.L  <span class="Stil1">&laquo;</span>
 
@@ -41,29 +40,7 @@
 				</a>
 
 			</div> <!-- ende main -->
-
-		<div id="text_container">
-
-				<div id="text_btn_left">
-
-					Test text 2tttt
 			
-				</div>
-
-				<div id="text_btn_midddle">
-					Allgeine Übersicht zur NBBL </br>
-					und der aktuellen Season
-				</div>
-
-				<div id="text_btn_right">
-					Informationen zum NBBL Ringbahnsaufen in Berlin
-
-				</div>
-		</div>
-			
-				
-
-		</div><!-- ende text_container -->
 
 
 		<div id="footer_container">
