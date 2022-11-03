@@ -27,11 +27,7 @@
 
     <header>
         <div id="header">
-            <div id="video_header">
-                <video autoplay loop muted>
-                    <source src="https://www.youtube.com/watch?v=NcBjx_eyvxc" type="video/mp4">
-                </video>
-            </div>
+            
 
         </div>
 			<!-- ende header -->
