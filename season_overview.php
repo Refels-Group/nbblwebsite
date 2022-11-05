@@ -43,7 +43,7 @@
 
 <a href="start.php">Startseite</a>
 <a href="season_overview.php">Seasonübersicht</a>
-<a href="team_overview.php">Seasonübersicht</a>
+<a href="team_overview.php">Teamübersicht</a>
 <a href= "team_registration.php">Teamanmeldung</a>
 <a href= "impressum.php">Impressum</a>
 
