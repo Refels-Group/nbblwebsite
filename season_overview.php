@@ -42,8 +42,8 @@
 <div id= "nav_bar">
 
 <a href="start.php">Startseite</a>
-<a href="">Seasonübersicht</a>
 <a href="season_overview.php">Seasonübersicht</a>
+<a href="team_overview.php">Seasonübersicht</a>
 <a href= "team_registration.php">Teamanmeldung</a>
 <a href= "impressum.php">Impressum</a>
 
