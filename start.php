@@ -30,7 +30,7 @@
             
 
         </div>
-			<!-- ende header -->
+			<!--  ende header -->
 <!--nav bar -->
 
  <div id= "nav_bar"> 
