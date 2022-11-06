@@ -92,7 +92,7 @@ echo $sec." Sec ";
 <!-- ende nav_bar -->
 
 <p> <video width="320" height="240" controls>
-<source src="IMG_0526.MOV" type="video/MOV">
+<source src="IMG_0526.mp4" type="video/mp4">
 Video vom bierballturneir
 </video>
 
