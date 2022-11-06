@@ -23,8 +23,6 @@
 	<body background="bilder\bier.jpg" size="cover"> 
 
 		<body>
-
-		<h1> geht doch alles </h1>
 		
 		<div id="head_container"> 
 			<div id="header"> <span class="Stil1">&raquo;</span> N.B.B.L - Startseite <span class="Stil1">&laquo;</span>
