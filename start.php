@@ -69,36 +69,8 @@
 
 			<div id="main"><!-- begin main -->
 
-            <div id="impressum_header">
-            Impressum
-
-            </div>
         
-            <div id="impressum_content">
-            N.B.B.L. e.V. Test </br>
-
-            ein Verein der Refels Unternehmemnsgruppe </br>   
-
-            Vertretungsberechtigter Vorstand: Maximilian Rentzsch & Jonathan Felsmann </br>
-
-            da wo joni wohnt 1</br>
-
-            00000 Berlin </br>
-
-            Telefon: (0123) 456789 </br>
-
-            Fax: (0123) 987654 </br>
-
-            E-Mail: group@refels.net </br>
-
-            Eingetragen in das Vereinsregister beim Amtsgericht Musterstadt unter VR 12345
-
-            
-            </div>
-
-
-			<!-- ende impressum content -->
-
+        
             </div><!-- ende main -->
 
 
