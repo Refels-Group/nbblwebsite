@@ -68,32 +68,15 @@
 			<div id="main"><!-- begin main -->
 
 
-			<div class="gallery">
-  <a target="_blank" href="bilder\team1.png">
-    <img src="bilder\team1.png" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+			<div id=gallerie>
 
-<div class="gallery">
-  <a target="_blank" href="bilder\team1.png">
-    <img src="bilder\team1.png" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+                <img src="bilder\gallerie\2und3_season1.jpg" width="150" height="150" border="0" alt="bier 1">
+                <img src="bilder\gallerie\arena1.jpg" width="150" height="150" border="0" alt="bier 2">
+                <img src="bilder\gallerie\bierpong_apark.jpg" width="150" height="150" border="0" alt="bier 3">
+                <img src="bilder\gallerie\season2_verkundung.jpg" width="150" height="150" border="0" alt="bier 1">
+                <img src="bilder\gallerie\sieger_season1.jpg" width="150" height="150" border="0" alt="bier 2">
+                <img src="bilder\gallerie\teamkappellis_season1.jpg" width="150" height="150" border="0" alt="bier 3">
 
-<div class="gallery">
-  <a target="_blank" href="bilder\team1.png">
-    <img src="bilder\team1.png" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="bilder\team1.pngg">
-    <img src="bilder\team1.png" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a descrdddddddiption of the image here</div>
 </div>
         
 

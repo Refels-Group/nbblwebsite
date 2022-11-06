@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- created by axpde for Wikipedia -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500" height="500" viewBox="0 0 500 500">
+<title>Turm-S-Bahnhof</title>
+
+<g stroke="none" fill="none">
+<path d="M 0,250 L 500,250" style="stroke:#be2d2c;stroke-width:100;stroke-dasharray:90,320;" />
+<polyline points="50,50 120,100 120,400 50,450" style="stroke:#80a080;stroke-width:60;" />
+<polyline points="450,50 380,100 380,400 450,450" style="stroke:#80a080;stroke-width:60;" />
+<path d="M 250,0 L 250,500" style="stroke:#be2d2c;stroke-width:100;" />
+<circle cx="250" cy="250" r="150" fill="#006e34" />
+<path d=" M 212.0,183.5
+	C 212.0,170.5 224.0,159.4 244.8,159.4
+	C 281.7,159.4 313.2,179.2 334.1,201.7
+	L 334.1,162.4
+	C 309.9,143.7 279.6,132.5 245.7,132.5
+	C 205.0,132.5 159.7,157.5 159.7,203.9
+	C 159.7,292.3 293.9,260.6 293.9,311.8
+	C 293.9,325.4 276.0,338.2 253.8,338.2
+	C 217.4,338.2 181.4,316.2 161.6,287.7
+	L 161.6,334.9
+	C 182.5,353.6 220.7,368.5 253.8,368.5
+	C 313.2,368.5 348.5,326.2 348.5,289.9
+	C 348.5,199.8 212.0,238.3 212.0,183.5 z " fill="#ffffff" />
+</g>
+</svg>
