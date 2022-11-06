@@ -38,14 +38,7 @@
 <a href="index.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
     
 </a>
-<div id="dropdown">
-    <button id="btn_nav_bar">Übersicht</button>
-        <div id="dropdown_menu">
-            dropdown
-            content
-        </div>
 
-</div>
 <a href= "team_registration.php"><button id="btn_nav_bar">Anmeldung</button></a>
 <a href= "impressum.php"><button id="btn_nav_bar">Impressum</button></a>
 
@@ -85,8 +78,7 @@ Video vom bierballturneir
 
         
          <div id="footer_container">
-             <div id="footer">Alle hier auf der Webseite entstandenden Fehler weisen wir komplett zurück. </br>
-			(C) 2022 REFELS GmbH
+             <div id="footer">(C) 2022 REFELS GmbH
 
 
 	        </div><!-- ende footer -->
