@@ -45,7 +45,6 @@
 
 </div>
 
-
 <!-- ende nav_bar -->
    
 <!-- ende head container -->	
