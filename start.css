@@ -6,54 +6,56 @@
 				background-color: green
 				color: red;
 			}
-
-
+			
 			#head_container {	
 				width: 1500px;
 				font-family: Arial;
-				background-color: #EE5C42;
+				background-color: rgba(221, 130, 39, 0.5);
 				text-align: center;
 				margin: 0px auto 0px auto;
+			
+				border-top:none;
+				
 				
 			}
-			#header {
-				width: 1500px;
-				padding-top: 20px;
-				padding-bottom: 50 0px;
-				background-color: #EE5C42;
-				text-align: center;
-				font-size: 2em;
-				font-weight: bold;
-				color: grey;
+			#header{
+				background-color: rgba(88, 86, 84, 0.5);
+			
 			}
+			
+			
 			#main_container {
-				width: 1500px;
-				height: 1200px;
-				margin: 30px auto 0px auto;
+				width: 100%;
+				height: 600px;
+				margin: 0px auto 0px auto;
 				font-family: Verdana, Arial, Helvetica, sans-serif;
 				font-size: 14px;
 				background-color:#CDB7B5;
-
+				display: flex;
+				justify-content: center;
+				background-color: rgba(88, 86, 84, 0.5)
 			}
 			#main {
 				width: 800px;
 				min-height:300px;
 				top: 30em; 
 				left: -50em; 
-				padding-top: 100px;
+				padding-top: 40px;
 				padding-bottom: 40px;
+				padding-left: 0px;
 				font-size: 1em;
 				font-family: Verdana, Arial, Helvetica, sans-serif;
-				color: #000000;
-				margin:0px auto 0px auto;
-
+				margin: 0px  0px ;
+				background-color: #32302f;
+				color: #EFEFEF;
+			
 			}
 			#footer_container {
-				width: 1500px;
+				width: 100%;
 				font-family: Verdana, Arial, Helvetica, sans-serif;
 				background-color: #544F43;
 				margin: 0px auto 0px auto;
-
+				border-top:none;
 			}
 			#footer {
 				width: 900px;
@@ -77,22 +79,54 @@
 			
 			#sidebar_container {
 				width: 120px;
-				height: 300px;
-				left: 80em;
-				position: left;
+				height: 200px;
 				background-color: #66CDAA;
 				font-size: 1,5em;
 				text-align: center;
-				margin: 300px auto 400px auto;
+				float: left;
+			
 			}
 			
+			#menue_container {
+				width: 200px;
+				height: 120px;
+				background-color: black;
+			}
 			
 			#nbbl_logo {
-				position: center;
+				width: 5;
+				height: 3;
 				padding: 30px 10px 10px 10px;
 				
 			}
+			#impressum_content {
+				font-size: 1em;
+				color: #FFFFFF;
+				text-align: center;
+			}
+			#nav_bar {
+				width: 100%;
+				height: 30px;
+				background-color: rgba(88, 86, 84, 0.5);
+				font-size: 15px; 
+				display: flex;
+				justify-content: space-evenly;
+				font-family: Verdana, Geneva, Tahoma, sans-serif;
+				margin-top: 5px;
+				margin-bottom: 5px;
 			
+			
+			
+			}
+			#impressum_header{
+				width: 800px;
+				padding-top: 20px;
+				padding-bottom: 50px;
+				text-align: center;
+				font-size: 2em;
+				font-weight: bold;
+				color: #ECEBE9;
+			}
 			#nav_bar{
 				height: 100px;
 				display:flex;
@@ -112,6 +146,7 @@
 				border:none; 
 				max-width: 100%;
 				max-height: 100%;
+				border-radius: 15px;
 				
 			  }
 			  #nav_bar:hover #btn_nav_bar{
@@ -131,11 +166,33 @@
 				height: 100px;
 				
 			  }
+			  #dropdown {
+				position: relative;
+			}    */not implementet yet
+			
+			#dropdown_menu {
+				border-radius: 10px;
+				position: absolute;
+				background-color: black;
+				color: #d6d6d6;
+				text-align: center;
+				top: calc(100% + .25rem);
+				opacity: 0;
+				transform: translateY(-20px);
+				transform: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+			}
+			
+			*/does not work yet
+			
+			#dropdown > #btn_nav_bar:focus + #dropdown_menu{
+				opacity: 1;
+				transform: translateY(0px);
+				
+			}
 			
 				  
 				
 				
-			
 			
 			
 			
