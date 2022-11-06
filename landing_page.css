@@ -73,7 +73,7 @@
 }
 #btn_right:hover{
   width: 330px;
-  height: 350pc;
+  height: 350px;
   transform: scale(1);
   background-color: black;
   box-shadow:  0PX 20px 20px 10px rgba(226, 174, 29, 0.5);
