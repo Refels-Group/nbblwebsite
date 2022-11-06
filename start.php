@@ -22,6 +22,8 @@
 	
 	<body background="bilder\bier.jpg" size="cover"> 
 
+		<h1>Test</h1>
+		
 		<body>
 		
 		<div id="head_container"> 
