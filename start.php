@@ -57,13 +57,10 @@
    
 <!-- ende head container -->	
 
-<<<<<<< HEAD
 <p> <video width="320" height="240" controls>
 <source src="bilder\IMG_0526.mp4" type="video/mp4">
 Video vom bierballturneir
 </video>
-=======
->>>>>>> 1833efe13b5bb6316b9ac706887944579410958e
 
             <!-- begin main container -->
 
