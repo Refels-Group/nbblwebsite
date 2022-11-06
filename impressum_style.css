@@ -105,7 +105,7 @@
 #nav_bar {
     width: 100%;
     height: 30px;
-    background-color: rgba(88, 86, 84, 0.5)
+    background-color: rgba(88, 86, 84, 0.5);
     font-size: 15px; 
     display: flex;
     justify-content: space-evenly;
@@ -166,7 +166,7 @@
   }
   #dropdown {
     position: relative;
-}
+}    */not implementet yet
 
 #dropdown_menu {
     border-radius: 10px;
@@ -179,6 +179,9 @@
     transform: translateY(-20px);
     transform: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
 }
+
+*/does not work yet
+
 #dropdown > #btn_nav_bar:focus + #dropdown_menu{
     opacity: 1;
     transform: translateY(0px);
