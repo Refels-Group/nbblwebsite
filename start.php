@@ -57,10 +57,7 @@
    
 <!-- ende head container -->	
 
-<p> <video width="320" height="240" controls>
-<source src="bilder\IMG_0526.mp4" type="video/mp4">
-Video vom bierballturneir
-</video>
+
 
             <!-- begin main container -->
 
@@ -73,7 +70,10 @@ Video vom bierballturneir
 
 			<div id="main"><!-- begin main -->
 
-        
+        <p> <video width="320" height="240" controls>
+<source src="bilder\IMG_0526.mp4" type="video/mp4">
+Video vom bierballturneir
+</video>
         
             </div><!-- ende main -->
 
