@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>NBBL Impressum</title>
 
     <meta charset="UTF-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -18,34 +18,36 @@
         <link href="https://blankiball.de/images/hermann_logo/export.png" rel="icon" type="image/x-icon" />
 
 
-        <link href="team_overview.css" rel="stylesheet" type="text/css" media="screen" />
+        <link href="impressum_style.css" rel="stylesheet" type="text/css" media="screen" />
 
 </head>
-
-
+										
+										
 <body background="bilder\bier.jpg">
 
-        <div id="head_container"> 
-			<div id="header"> <span class="Stil1">&raquo;</span> N.B.B.L - Teamübersicht <span class="Stil1">&laquo;</span>
-			</div>
+    <header>
+        <div id="header">
+            
+
+        </div>
 			<!-- ende header -->
-
-<div id="nbbl_logo">
-	<a href="impressum.php"><img src="bilder\wgwa-schwebend-logo.png" height="320" center"></a>
-	<a href="impressum.php"><img src="bilder\nbbl-logo.png" height="300"></a>
-	<a href="impressum.php"><img src="bilder\ringbahn.jpg" height="250"></a>
-</div>
-
-
 <!--nav bar -->
 
-<div id= "nav_bar">
+ <div id= "nav_bar"> 
 
-<a href="index.php">Startseite</a>
-<a href="season_overview.php">Seasonübersicht</a>
-<a href="team_overview.php">Teamübersicht</a>
-<a href= "team_registration.php">Teamanmeldung</a>
-<a href= "impressum.php">Impressum</a>
+<a href="index.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
+    
+</a>
+<div id="dropdown">
+    <button id="btn_nav_bar">Übersicht</button>
+        <div id="dropdown_menu">
+            dropdown
+            content
+        </div>
+
+</div>
+<a href= "team_registration.php"><button id="btn_nav_bar">Anmeldung</button></a>
+<a href= "impressum.php"><button id="btn_nav_bar">Impressum</button></a>
 
 
 </div>
@@ -63,19 +65,44 @@
             <div id="left_sidebar_info">
             
 
-            </div> <!-- ende sidebar -->
+            </div>
 
-			<div id="main">
+			<div id="main"><!-- begin main -->
 
+            <div id="impressum_header">
+            Impressum
+
+            </div>
         
-        
+            <div id="impressum_content">
+            N.B.B.L. e.V. Test </br>
+
+            ein Verein der Refels Unternehmemnsgruppe </br>   
+
+            Vertretungsberechtigter Vorstand: Maximilian Rentzsch & Jonathan Felsmann </br>
+
+            da wo joni wohnt 1</br>
+
+            00000 Berlin </br>
+
+            Telefon: (0123) 456789 </br>
+
+            Fax: (0123) 987654 </br>
+
+            E-Mail: group@refels.net </br>
+
+            Eingetragen in das Vereinsregister beim Amtsgericht Musterstadt unter VR 12345
+
+            
+            </div>
+
+
+			<!-- ende impressum content -->
 
             </div><!-- ende main -->
 
 
 </div> <!-- ende main container -->
-
-        <!-- Begin Impressum -->
 
         
          <div id="footer_container">

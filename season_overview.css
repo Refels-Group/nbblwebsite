@@ -1,124 +1,196 @@
 
+#body {
+    margin: 90000px;
+    top: -100em;
+    background-color: green
+    color: red;
+}
 
-			#body {
-				margin: 90000px;
-				top: -100em;
-				background-color: green
-				color: red;
-			}
+#head_container {	
+    width: 1500px;
+    font-family: Arial;
+    background-color: rgba(221, 130, 39, 0.5);
+    text-align: center;
+    margin: 0px auto 0px auto;
+
+    border-top:none;
+    
+    
+}
+#header{
+    background-color: rgba(88, 86, 84, 0.5);
+
+}
 
 
-			#head_container {	
-				width: 1500px;
-				font-family: Arial;
-				background-color: #EE5C42;
-				text-align: center;
-				margin: 0px auto 0px auto;
-				
-			}
-			#header {
-				width: 1500px;
-				padding-top: 20px;
-				padding-bottom: 50 0px;
-				background-color: #EE5C42;
-				text-align: center;
-				font-size: 2em;
-				font-weight: bold;
-				color: green;
-			}
-			#main_container {
-				width: 1500px;
-				height: 1200px;
-				margin: 0px auto 0px auto;
-				font-family: Verdan, Arial, Helvetica, sans-serif;
-				font-size: 14px;
-				background-color:#CDB7B5;
+#main_container {
+    width: 100%;
+    height: 600px;
+    margin: 0px auto 0px auto;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color:#CDB7B5;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(88, 86, 84, 0.5)
+}
+#main {
+    width: 800px;
+    min-height:300px;
+    top: 30em; 
+    left: -50em; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    font-size: 1em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 0px  0px ;
+    background-color: #32302f;
+    color: #EFEFEF;
 
-			}
-			#main {
-				width: 800px;
-				min-height:300px;
-				top: 30em; 
-				left: -50em; 
-				padding-top: 100px;
-				padding-bottom: 40px;
-				font-size: 1em;
-				font-family: Verdana, Arial, Helvetica, sans-serif;
-				color: #000000;
-				margin:0px auto 0px auto;
+}
+#footer_container {
+    width: 100%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #544F43;
+    margin: 0px auto 0px auto;
+    border-top:none;
+}
+#footer {
+    width: 900px;
+    padding: 30px 10px 10px 10px;
+    height: 30px;
+    margin: 0px auto 0px auto;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    color: #EFEFEF;
+    text-align:center;
+} 
+#header a {
+    font-size:99999px;
+    font-weight:bold;
+    color:#EFEFEF;
+    text-decoration:none;
+}
+#header a:hover , .Stil1{
+    color:#FF6600;
+}
 
-			}
-			#footer_container {
-				width: 1500px;
-				font-family: Verdana, Arial, Helvetica, sans-serif;
-				background-color: #544F43;
-				margin: 0px auto 0px auto;
+#sidebar_container {
+    width: 120px;
+    height: 200px;
+    background-color: #66CDAA;
+    font-size: 1,5em;
+    text-align: center;
+    float: left;
 
-			}
-			#footer {
-				width: 900px;
-				padding: 30px 10px 10px 10px;
-				height: 30px;
-				margin: 0px auto 0px auto;
-				font-family: Verdana, Arial, Helvetica, sans-serif;
-				font-size: 0.6em;
-				color: #EFEFEF;
-				text-align:center;
-			} 
-			#header a {
-				font-size:99999px;
-				font-weight:bold;
-				color:#EFEFEF;
-				text-decoration:none;
-			}
-			#header a:hover , .Stil1{
-				color:#FF6600;
-			}
-			
-			#sidebar_container {
-				width: 120px;
-				height: 300px;
-				left: 80em;
-				position: left;
-				background-color: #66CDAA;
-				font-size: 1,5em;
-				text-align: center;
-				margin: 300px auto 400px auto;
-			}
-			
-			
-			#nbbl_logo {
-				position: center;
-				padding: 30px 10px 10px 10px;
-				
-			}
-			#nav_bar {
-				width: 1500px;
-				height: 20px;
-				background-color: white;
-				font-size: 15px; 
-				display: flex;
-				justify-content: space-around;
-				font-family: Verdana, Geneva, Tahoma, sans-serif;
-			}
-			
-			#gallery {
-				margin: 5px;
-				border: 1px solid #ccc;
-				float: left;
-				width: 180px;
-			  }
-			  
-			  div.gallery:hover {
-				border: 1px solid #777;
-			  }
-			  
-			  div.gallery img {
-				width: 100%;
-				height: auto;
-			  }
-			  
-			  div.desc {
-				padding: 15px;
-				text-align: center;
-			  }
+}
+
+#menue_container {
+    width: 200px;
+    height: 120px;
+    background-color: black;
+}
+
+#nbbl_logo {
+    width: 5;
+    height: 3;
+    padding: 30px 10px 10px 10px;
+    
+}
+#impressum_content {
+    font-size: 1em;
+    color: #FFFFFF;
+    text-align: center;
+}
+#nav_bar {
+    width: 100%;
+    height: 30px;
+    background-color: rgba(88, 86, 84, 0.5);
+    font-size: 15px; 
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+
+
+}
+#impressum_header{
+    width: 800px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ECEBE9;
+}
+#nav_bar{
+    height: 100px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+      justify-content: space-evenly;
+      border: none;
+  }
+  #btn_nav_bar{
+    width: 90px;
+    height: 80px;
+    background:#cba742;
+    border:1px solid #d6d6d6;
+    box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
+    border-radius:3px;
+    transition:.2s all; 
+    border:none; 
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 15px;
+    
+  }
+  #nav_bar:hover #btn_nav_bar{
+    filter:blur(3px);
+    opacity:.5;
+    transform: scale(.98);
+    box-shadow:none;
+  }
+  #nav_bar:hover #btn_nav_bar:hover{
+    transform:scale(1);
+    filter:blur(0px);
+    opacity:1;
+    box-shadow:0px 10px 10px 7px rgba(203,167,66,0.750);
+    background-color: black;
+    color: #cba742;
+    width: 110px;
+    height: 100px;
+    
+  }
+  #dropdown {
+    position: relative;
+}    */not implementet yet
+
+#dropdown_menu {
+    border-radius: 10px;
+    position: absolute;
+    background-color: black;
+    color: #d6d6d6;
+    text-align: center;
+    top: calc(100% + .25rem);
+    opacity: 0;
+    transform: translateY(-20px);
+    transform: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+*/does not work yet
+
+#dropdown > #btn_nav_bar:focus + #dropdown_menu{
+    opacity: 1;
+    transform: translateY(0px);
+    
+}
+
+      
+    
+    
+
+
