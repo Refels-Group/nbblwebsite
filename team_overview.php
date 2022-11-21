@@ -18,7 +18,7 @@
         <link href="https://blankiball.de/images/hermann_logo/export.png" rel="icon" type="image/x-icon" />
 
 
-        <link href="impressum_style.css" rel="stylesheet" type="text/css" media="screen" />
+        <link href="team_overview.css" rel="stylesheet" type="text/css" media="screen" />
 
 </head>
 										
