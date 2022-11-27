@@ -35,7 +35,7 @@
 
  <div id= "nav_bar"> 
 
-<a href="index.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
+<a href="start.php"><button id="btn_nav_bar" ><img src="bilder\nbbl-logo" max height="100%" max width="100%"></button>
     
 </a>
 <div id="dropdown">
@@ -46,9 +46,11 @@
         </div>
 
 </div>
+<a href="season_overview.php"><button id="btn_nav_bar">Season Übersicht</button>/a>
 <a href= "team_registration.php"><button id="btn_nav_bar">Anmeldung</button></a>
 <a href= "impressum.php"><button id="btn_nav_bar">Impressum</button></a>
-
+<a href= "login _page.php"><button id="btn_nav_bar">Login</button></a>
+<a href= "index.php"><button id="btn_nav_bar">"Admin_button"</button></a>
 
 </div>
 
