@@ -74,7 +74,7 @@
 
         <p> <video width="320" height="240" controls>
 <source src="bilder\IMG_0526.mp4" type="video/mp4">
-Video vom bierballturneir
+Video vom bierballturnier
 </video>
         
             </div><!-- ende main -->
