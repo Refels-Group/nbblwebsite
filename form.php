@@ -23,7 +23,7 @@
 
 
 
-    <form id="form" action="/DatabaseTest/index_datatest.php" method="post">
+    <form id="form" action="index_datatest.php" method="post">
         
     <table>
 

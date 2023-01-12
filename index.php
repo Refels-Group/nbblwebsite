@@ -28,7 +28,7 @@
 
 		<div id= "main_container">
 
-				<a href="start.php"><button id="btn_left"></button>
+				<a href="form.php"><button id="btn_left"></button>
 					
 				</a>
 

@@ -1,9 +1,11 @@
 
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "NBBL_DATA";
+$servername = "db5011523477.hosting-data.io";
+$username = "dbu5361223";
+$password = "adminnbbl1337";
+$dbname = "dbs9720253";
+
+
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
