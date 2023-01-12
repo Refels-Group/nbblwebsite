@@ -1,12 +1,9 @@
 
-
-			#body {
-				margin: 90000px;
-				top: -100em;
-				background-color: green
-				color: red;
+			body {
+				background-color: rgb(22, 22, 22);
+				
 			}
-			
+
 			#head_container {	
 				width: 1500px;
 				font-family: Arial;

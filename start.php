@@ -46,7 +46,7 @@
         </div>
 
 </div>
-<a href="season_overview.php"><button id="btn_nav_bar">Season Übersicht</button>/a>
+<a href="season_overview.php"><button id="btn_nav_bar">Season Übersicht</button>
 <a href= "team_registration.php"><button id="btn_nav_bar">Anmeldung</button></a>
 <a href= "impressum.php"><button id="btn_nav_bar">Impressum</button></a>
 <a href= "login _page.php"><button id="btn_nav_bar">Login</button></a>

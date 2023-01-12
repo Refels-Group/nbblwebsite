@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(48, 48, 48);
+
+    display: flex;
+    justify-content: center;
+}
+#main {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(220, 229, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 12px 20px 15px 15px rgba(0, 0, 0, 0.2);
+
+
+}
+#form{
+
+}
+#txtf {
+ border: none;
+}
+#regbutton {
+    font-size: large;font-weight: bold;
+
+}
+#sbutton {
+    border: none;
+    transition: margin 0.5s;
+
+}
+#sbutton:hover {
+    background-color: rgb(40, 40, 152);
+}
