@@ -37,7 +37,8 @@ if ($error)
     $_POST[$errormessage1];
     exit();
 } 
-   
+
+
 
 
 $sql = "INSERT INTO `User` (`Name`, `Surname`, `Phone`, `EMail`, `Role`, `Password`) 

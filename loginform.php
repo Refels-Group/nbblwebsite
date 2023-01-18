@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
-<link href="form.css" rel="stylesheet" type="text/css" media="screen"/> 
+<link href="loginform.css" rel="stylesheet" type="text/css" media="screen"/> 
 
 </head>
 <body>
@@ -28,7 +28,7 @@
     <table>
 
     <tr>
-    <td id="regbutton">Registrieren</td>
+    <td id="regbutton">Anmelden</td>
     <br>
   </tr>
   <br>
@@ -58,7 +58,7 @@
 
 </table> 
 <button id="sbutton" name="name" value="value" type="submit">Registrieren</button>
-<button id="sbutton" href="loginform.php">Zur Anmeldung</button>
+<button id="sbutton" href="form_login.php">Zur Anmeldung</button>
     </form>
 
    
