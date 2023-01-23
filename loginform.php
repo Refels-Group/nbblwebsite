@@ -30,38 +30,20 @@
     <tr>
     <td id="regbutton">Anmelden</td>
     <br>
-  </tr>
-  <br>
   <tr>
-    <td>Name</td>
-    <td><input id="txtf" type="text" name="Surname"></td>
+    <td>Email</td>
+    <td><input id="txtf" type="text" name="EMail"></td>
   </tr>
-
-  <tr>
-    <td>Vorname</td>
-    <td><input id="txtf" type="text" name="Name"></td>    
-  </tr>
-
-  <tr>
-    <td>Phone</td>
-    <td><input id="txtf" type="text" name="Phone"></td>  
-</tr>
-
-    <td>EMail</td>
-    <td><input id="txtf" type="text" name="EMail"></td>    
-  </tr>  
-
   <tr>
     <td>Password</td>
     <td><input id="txtf" type="text" name="Password"></td>    
   </tr>
 
 </table> 
-<button id="sbutton" name="name" value="value" type="submit">Registrieren</button>
-<button id="sbutton" href="form_login.php">Zur Anmeldung</button>
-    </form>
+<button id="sbutton" name="name" value="value" type="submit">Anmelden</button>
 
-   
+    </form>
+    <button id="sbutton" href="form.php">Registrieren</button>
 
 </div>
 

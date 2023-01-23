@@ -58,9 +58,8 @@
 
 </table> 
 <button id="sbutton" name="name" value="value" type="submit">Registrieren</button>
-<button id="sbutton" href="loginform.php">Zur Anmeldung</button>
     </form>
-
+    <a href= "loginform.php"><button id="sbutton">Anmeldung</button></a>
    
 
 </div>
